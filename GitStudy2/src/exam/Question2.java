@@ -6,6 +6,9 @@ public class Question2 {
 		System.out.println(Math.random());
 
 		System.out.println("Ä¿¹Ô1");
+		System.out.println("Ä¿¹Ô2");
+		
+		
 	}
 
 }
