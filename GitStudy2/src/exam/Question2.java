@@ -11,6 +11,8 @@ public class Question2 {
 		// (단, Question2만 수정해야 함 *이 주석은 branchB 에서 작성되었음)
 
 		System.out.println("1+5=6");
+		
+		// main branch에 branchA를 합치고 history 내역을 보내주세요
 	}
 
 }
