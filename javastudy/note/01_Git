@@ -66,3 +66,18 @@ Window -> Show View -> Othe.. -> Git -> Git Repositorise
 # 연습해보기 : 여태 공부했던 JavaStudy의 모든 내용을 Github에 올리고 깃 주소를 보내주세요
 
 
+# branch
+
+	- 하나의 레포지토리를 다양한 상태로 보관하기 위한 기능
+	- Git Repositories -> switch To .. -> New Branch
+	- checkout을 통해 언제든지 원하는 branch로 전환이 가능하다
+	- branch를 전환하면 커밋하지 않은 작업 내용들은 모두 사라진다
+	
+	origin.main ㅁ
+	
+	main        ㅁ - ㅁ - ㅁ - ㅁ - ㅁ - ㅁ  (baranch 어쩌고를 합치면 merge)
+								\
+								ㅁ - ㅁ  branch A
+									 \
+									  ㅁ - ㅁ - ㅁ branch B
+
